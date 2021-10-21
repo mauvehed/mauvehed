@@ -5,5 +5,5 @@
 	<a href="https://mauvehed.com"><img src="https://img.shields.io/website?down_color=red&style=social&up_color=purple&url=https%3A%2F%2Fmauvehed.com" alt="mauvehed.com"></a>
 </p>
 <p align="center">
-	![mauvehed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauvehed&count_private=true&theme=radical)
+	![Github stats](https://github-readme-stats.vercel.app/api?username=mauvehed&show_icons=true&theme=radical)
 </p>
