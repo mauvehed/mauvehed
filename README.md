@@ -6,3 +6,4 @@
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mauvehed&show_icons=true&theme=radical)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mauvehed)](https://github.com/anuraghazra/github-readme-stats)
