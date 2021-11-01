@@ -8,9 +8,9 @@
 
 ---
 
-Sometimes I contribute
+#### Sometimes I contribute
 > ![Github stats](https://github-readme-stats.vercel.app/api?username=mauvehed&show_icons=true&theme=material-palenight)
 
-Sometimes I write code
+#### Sometimes I write code
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauvehed&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
