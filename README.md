@@ -16,4 +16,3 @@
 ### Sometimes I write code
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauvehed&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a rel="me" href="https://infosec.exchange/@mauvehed"></a>
