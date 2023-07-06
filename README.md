@@ -5,7 +5,7 @@
 	<a href="https://defcon.social/@mauvehed"><img src="https://img.shields.io/mastodon/follow/109350539749527099?domain=https%3A%2F%2Fdefcon.social&style=social" alt="Mastodon"></a>
 	<a href="https://mauvehed.com"><img src="https://img.shields.io/website?down_color=red&style=social&up_color=purple&url=https%3A%2F%2Fmauvehed.com" alt="mauvehed.com"></a>
 	<br>
-	<a href="https://wakatime.com/@1f9ed656-acae-4d01-9576-e7375d9a2f67"><img src="https://wakatime.com/badge/user/1f9ed656-acae-4d01-9576-e7375d9a2f67.svg"></a>
+	<a href="https://libraries.io/github/mauvehed"><img src="https://img.shields.io/badge/libraries.io-mauvehed-purple"></a>
 </p>
 
 ---
