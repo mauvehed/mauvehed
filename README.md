@@ -12,6 +12,7 @@
 
 <p align="center">
 	<img height=200 align="center" src="https://mvh-github-readme-stats.vercel.app/api?username=mauvehed&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-	<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauvehed&theme=material-palenight&hide_border=false&card_width=320" />
 	<img height=200 align="center" src="https://mvh-github-readme-stats.vercel.app/api/top-langs?username=mauvehed&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=320" />
+	<br>
+	<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauvehed&theme=material-palenight&hide_border=false&card_width=660" />
 </p>
